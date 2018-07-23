@@ -6,7 +6,7 @@ This repository is a collection of OOPs concepts, data structures and algorithm 
 
 | Problem   | Implementation |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| <b>1.1 Is Unique:</b>  <br> Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?               | [Look]()|
+| <b>1.1 Is Unique:</b>  <br> Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?               | [Look](https://github.com/prateeksharmamay/Ctci_v6/blob/master/src/java/IsUnique.java)|
 
 ## Chapter 2 : Linked Lists
 
