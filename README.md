@@ -8,7 +8,7 @@ This repository is a collection of OOPs concepts, data structures and algorithm 
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | <b>1.1 Is Unique:</b>  <br> Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?               | [Look](https://github.com/prateeksharmamay/Ctci_v6/blob/master/src/java/IsUnique.java)|
 | <b>1.2 Check Permutation:</b>  <br> Given two strings, write a method to decide if one is a permutation of the
-other.               | [Look](https://github.com/prateeksharmamay/Ctci_v6/blob/master/src/java/CheckPermutation)|
+other.               | [Look](https://github.com/prateeksharmamay/Ctci_v6/blob/master/src/java/CheckPermutation.java)|
 
 ## Chapter 2 : Linked Lists
 
